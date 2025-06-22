@@ -3,6 +3,7 @@ table{
     text-align: center;
     border-collapse: collapse;
     font: normal 3em Arial, Helvetica, sans-serif;
+    width: 100%;
 }
 
 tr{
